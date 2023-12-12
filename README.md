@@ -22,6 +22,8 @@ Combinational circuits are made up of logic gates. The output of each logic gate
 Open Quartus and create a new project by selecting "File" > "New Project Wizard."
 Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
 
+
+
 2.	*Create a New Design File:
 
 Once the project is created, right-click on the project name in the Project Navigator and select "Add New File."
